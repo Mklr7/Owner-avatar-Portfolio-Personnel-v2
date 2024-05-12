@@ -1,28 +1,18 @@
-# Premiers pas avec l'application Create React
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!--=============== BOXICONS ===============-->
+    <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' rel='stylesheet'>
 
-## Scripts disponibles
+    <!--=============== UNICONS ===============-->
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
 
-Dans le répertoire du projet, vous pouvez exécuter :
-
-### `npm start`
-
-Exécute l'application en mode développement.\
-Ouvrez [http://localhost:3000](http://localhost:3000) pour l'afficher dans votre navigateur.
-
-La page se rechargera lorsque vous apporterez des modifications.\
-Vous pouvez également voir des erreurs de charpie dans la console.
-
-### `test npm`
-
-Lance le testeur en mode montre interactive.\
-Consultez la section sur [l'exécution de tests](https://facebook.github.io/create-react-app/docs/running-tests) pour plus d'informations.
-
-### `npm run build`
-
-Construit l'application pour la production dans le dossier `build`.\
-Il regroupe correctement React en mode production et optimise la construction pour les meilleures performances.
-
-La construction est minifiée et les noms de fichiers incluent les hachages.\
-Votre application est prête à être déployée !
-
-
+    <title>Portfolio Website</title>
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
