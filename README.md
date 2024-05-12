@@ -1,7 +1,5 @@
 # Premiers pas avec l'application Create React
 
-Ce projet a été démarré avec [Create React App](https://github.com/facebook/create-react-app).
-
 ## Scripts disponibles
 
 Dans le répertoire du projet, vous pouvez exécuter :
